@@ -1,0 +1,11 @@
+Cablage MCU :
+const int LOADCELL_DOUT_PIN = D1;
+const int LOADCELL_SCK_PIN = D2;
+VCC = 3V
+GND = 0V
+
+
+Cablage convertisseur:
+Rouge => E+
+Noir  => E-
+Blanc => A-, A+
